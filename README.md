@@ -2,7 +2,7 @@
 
 A personal portfolio built with React + Vite.
 
-🌐 Live Demo: [your-link.com](https://your-link.com)
+🌐 Live Demo: https://ramyasrivenkatasai.vercel.app/
 
 ## Tech Stack
 React 18 · Vite · Pure CSS · Devicons
